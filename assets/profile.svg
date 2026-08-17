@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700" role="img" aria-labelledby="t d">
+  <title id="t">fryrrosx — Software Developer &amp; Bug Bounty Hunter</title>
+  <desc id="d">Profile card for fryrrosx. Software developer and bug bounty hunter. Languages: TypeScript, Python, Java, Swift, Kotlin, C, C++, Ruby. Web and data: HTML, Django, SQL. Platforms: iOS, Android, Linux. DevOps and cloud: Docker, Kubernetes, Terraform, GitHub Actions, AWS, Azure, GCP, Helm, Ansible, Nginx. Infrastructure and security: Kubernetes, Terraform, Bug Bounty, OWASP, Burp Suite, Web Security, Penetration Testing, Reverse Engineering.</desc>
+
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    </style>
+
+    <clipPath id="card">
+      <rect x="0" y="0" width="1000" height="700" rx="28" />
+    </clipPath>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="80" />
+    </filter>
+    <filter id="glow" x="-140%" y="-140%" width="380%" height="380%">
+      <feGaussianBlur stdDeviation="6" />
+    </filter>
+
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0%" stop-color="#CDBEFF" />
+      <stop offset="45%" stop-color="#FFFFFF">
+        <animate attributeName="offset" values="0.05;0.95;0.05" dur="7s" repeatCount="indefinite"
+          calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" />
+      </stop>
+      <stop offset="100%" stop-color="#B9A8FF" />
+    </linearGradient>
+
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B6BFF" />
+      <stop offset="55%" stop-color="#22D3EE" />
+      <stop offset="100%" stop-color="#F471B5" />
+    </linearGradient>
+
+    <linearGradient id="edgeSweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="45%" stop-color="#C4B5FD" stop-opacity="0.75" />
+      <stop offset="55%" stop-color="#67E8F9" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0" dur="7s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0" />
+      <stop offset="50%" stop-color="#C4B5FD" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08090D" stop-opacity="0" />
+      <stop offset="100%" stop-color="#08090D" stop-opacity="0.66" />
+    </linearGradient>
+
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C4B5FD" stop-opacity="0.5" />
+      <stop offset="45%" stop-color="#7C5CFF" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#7C5CFF" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#FFFFFF" fill-opacity="0.055" />
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="1000" height="700" fill="#08090D" />
+
+    <g filter="url(#soft)" opacity="0.92">
+      <g>
+        <ellipse cx="872" cy="26" rx="268" ry="186" fill="#7C5CFF" opacity="0.62" />
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -46 26; 18 -14; 0 0" dur="24s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.35;0.7;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" />
+      </g>
+      <g>
+        <ellipse cx="1010" cy="200" rx="224" ry="168" fill="#22D3EE" opacity="0.30" />
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -58 -30; -12 22; 0 0" dur="30s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.4;0.75;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" />
+      </g>
+      <g>
+        <ellipse cx="700" cy="-40" rx="206" ry="146" fill="#F471B5" opacity="0.26" />
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; 40 34; -16 12; 0 0" dur="27s" repeatCount="indefinite" calcMode="spline"
+          keyTimes="0;0.45;0.8;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" />
+      </g>
+    </g>
+
+    <rect x="0" y="0" width="1000" height="700" fill="url(#dots)" />
+    <rect x="0" y="180" width="1000" height="520" fill="url(#floor)" />
+
+    <g opacity="0.95">
+      <ellipse cx="860" cy="556" rx="172" ry="172" fill="url(#orb)" />
+      <g fill="none" stroke="#FFFFFF" stroke-opacity="0.12">
+        <animateTransform attributeName="transform" type="rotate"
+          values="0 860 556; 360 860 556" dur="72s" repeatCount="indefinite" />
+        <ellipse cx="860" cy="556" rx="142" ry="54" transform="rotate(-22 860 556)" />
+        <ellipse cx="860" cy="556" rx="142" ry="54" transform="rotate(34 860 556)" />
+      </g>
+      <circle cx="716" cy="496" r="2.6" fill="#C4B5FD" fill-opacity="0.9">
+        <animate attributeName="fill-opacity" values="0.9;0.2;0.9" dur="4.6s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="972" cy="640" r="2.2" fill="#67E8F9" fill-opacity="0.85">
+        <animate attributeName="fill-opacity" values="0.85;0.18;0.85" dur="5.8s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="916" cy="440" r="1.8" fill="#F9A8D4" fill-opacity="0.8" />
+      <circle cx="768" cy="648" r="2" fill="#C4B5FD" fill-opacity="0.65">
+        <animate attributeName="fill-opacity" values="0.65;0.15;0.65" dur="6.4s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="826" cy="196" r="2.4" fill="#C4B5FD" fill-opacity="0.75">
+        <animate attributeName="fill-opacity" values="0.75;0.2;0.75" dur="5.2s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="912" cy="118" r="1.8" fill="#F9A8D4" fill-opacity="0.7" />
+    </g>
+
+    <rect x="-220" y="0" width="220" height="700" fill="url(#scan)">
+      <animate attributeName="x" values="-220;-220;1000;1000" keyTimes="0;0.18;0.72;1" dur="13s" repeatCount="indefinite" />
+    </rect>
+
+    <rect x="0" y="0" width="1000" height="1.5" fill="url(#edgeSweep)" />
+
+    <g>
+      <circle cx="61" cy="66" r="9" fill="#7C5CFF" opacity="0.35" filter="url(#glow)">
+        <animate attributeName="opacity" values="0.35;0.06;0.35" dur="3.2s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="61" cy="66" r="3.6" fill="#A78BFA" />
+    </g>
+    <text class="mono" x="80" y="71" font-size="12" letter-spacing="2.6" fill="#8A93A6">SOFTWARE DEVELOPER &#183; BUG BOUNTY HUNTER</text>
+
+    <g>
+      <rect x="754" y="50" width="190" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.11" />
+      <text class="mono" x="849" y="71" font-size="12" fill="#9AA3B5" text-anchor="middle">github.com/fryrrosx</text>
+    </g>
+
+    <text class="sans" x="54" y="172" font-size="86" font-weight="800" letter-spacing="-3" fill="url(#nameGrad)">fryrrosx</text>
+
+    <rect x="58" y="196" width="136" height="4" rx="2" fill="url(#ruleGrad)">
+      <animate attributeName="width" values="136;172;136" dur="6s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" />
+    </rect>
+
+    <rect x="56" y="220" width="9" height="17" rx="1.5" fill="#A78BFA">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.48;0.52;0.98;1" dur="1.15s" repeatCount="indefinite" />
+    </rect>
+    <g class="mono" font-size="15" fill="#CBD3E1">
+      <text x="76" y="234" opacity="1">
+        <animate attributeName="opacity" values="1;0" keyTimes="0;0.25" calcMode="discrete" dur="12s" repeatCount="indefinite" />
+        building software end to end
+      </text>
+      <text x="76" y="234" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.25;0.5" calcMode="discrete" dur="12s" repeatCount="indefinite" />
+        hunting vulnerabilities for bounty
+      </text>
+      <text x="76" y="234" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;0.75" calcMode="discrete" dur="12s" repeatCount="indefinite" />
+        shipping apps for iOS and Android
+      </text>
+      <text x="76" y="234" opacity="0">
+        <animate attributeName="opacity" values="0;1" keyTimes="0;0.75" calcMode="discrete" dur="12s" repeatCount="indefinite" />
+        running it all on Linux and Kubernetes
+      </text>
+    </g>
+
+    <text class="sans" x="56" y="276" font-size="16" fill="#8A93A6">From native mobile apps and typed frontends down to backends,</text>
+    <text class="sans" x="56" y="300" font-size="16" fill="#8A93A6">data layers, infrastructure — and the security holes in between.</text>
+
+    <rect x="56" y="340" width="888" height="1" fill="#FFFFFF" fill-opacity="0.08" />
+
+    <text class="mono" x="200" y="388" font-size="11" letter-spacing="1.6" fill="#A78BFA" text-anchor="end">LANGUAGES</text>
+    <g fill="#FFFFFF" fill-opacity="0.06" stroke="#8B6BFF" stroke-opacity="0.5">
+      <rect x="232" y="369" width="92" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.5;0.95;0.5" dur="5s" begin="0s" repeatCount="indefinite" /></rect>
+      <rect x="334" y="369" width="68" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.5;0.95;0.5" dur="5s" begin="0.13s" repeatCount="indefinite" /></rect>
+      <rect x="412" y="369" width="50" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.5;0.95;0.5" dur="5s" begin="0.26s" repeatCount="indefinite" /></rect>
+      <rect x="472" y="369" width="57" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.5;0.95;0.5" dur="5s" begin="0.39s" repeatCount="indefinite" /></rect>
+      <rect x="539" y="369" width="64" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.5;0.95;0.5" dur="5s" begin="0.52s" repeatCount="indefinite" /></rect>
+      <rect x="613" y="369" width="48" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.5;0.95;0.5" dur="5s" begin="0.65s" repeatCount="indefinite" /></rect>
+      <rect x="671" y="369" width="48" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.5;0.95;0.5" dur="5s" begin="0.78s" repeatCount="indefinite" /></rect>
+      <rect x="729" y="369" width="56" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.5;0.95;0.5" dur="5s" begin="0.91s" repeatCount="indefinite" /></rect>
+    </g>
+    <g class="sans" font-size="13" fill="#D5DBE8" text-anchor="middle">
+      <text x="278" y="388">TypeScript</text>
+      <text x="368" y="388">Python</text>
+      <text x="437" y="388">Java</text>
+      <text x="500" y="388">Swift</text>
+      <text x="571" y="388">Kotlin</text>
+      <text x="637" y="388">C</text>
+      <text x="695" y="388">C++</text>
+      <text x="757" y="388">Ruby</text>
+    </g>
+
+    <text class="mono" x="200" y="432" font-size="11" letter-spacing="1.6" fill="#67E8F9" text-anchor="end">WEB &amp; DATA</text>
+    <g fill="#FFFFFF" fill-opacity="0.06" stroke="#22D3EE" stroke-opacity="0.45">
+      <rect x="232" y="413" width="60" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.04s" repeatCount="indefinite" /></rect>
+      <rect x="302" y="413" width="68" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.17s" repeatCount="indefinite" /></rect>
+      <rect x="380" y="413" width="48" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.3s" repeatCount="indefinite" /></rect>
+    </g>
+    <g class="sans" font-size="13" fill="#D5DBE8" text-anchor="middle">
+      <text x="262" y="432">HTML</text>
+      <text x="336" y="432">Django</text>
+      <text x="404" y="432">SQL</text>
+    </g>
+
+    <text class="mono" x="200" y="476" font-size="11" letter-spacing="1.6" fill="#7DD3FC" text-anchor="end">PLATFORMS</text>
+    <g fill="#FFFFFF" fill-opacity="0.06" stroke="#38BDF8" stroke-opacity="0.45">
+      <rect x="232" y="457" width="48" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.43s" repeatCount="indefinite" /></rect>
+      <rect x="290" y="457" width="71" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.56s" repeatCount="indefinite" /></rect>
+      <rect x="371" y="457" width="57" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.69s" repeatCount="indefinite" /></rect>
+    </g>
+    <g class="sans" font-size="13" fill="#D5DBE8" text-anchor="middle">
+      <text x="256" y="476">iOS</text>
+      <text x="326" y="476">Android</text>
+      <text x="400" y="476">Linux</text>
+    </g>
+
+    <text class="mono" x="200" y="520" font-size="11" letter-spacing="1.6" fill="#6EE7B7" text-anchor="end">DEVOPS &amp; CLOUD</text>
+    <g fill="#FFFFFF" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.45">
+      <rect x="232" y="501" width="68" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.82s" repeatCount="indefinite" /></rect>
+      <rect x="310" y="501" width="92" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.95s" repeatCount="indefinite" /></rect>
+      <rect x="412" y="501" width="85" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="2.08s" repeatCount="indefinite" /></rect>
+      <rect x="507" y="501" width="120" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="2.21s" repeatCount="indefinite" /></rect>
+      <rect x="637" y="501" width="54" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="2.34s" repeatCount="indefinite" /></rect>
+      <rect x="232" y="537" width="57" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="2.47s" repeatCount="indefinite" /></rect>
+      <rect x="299" y="537" width="54" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="2.6s" repeatCount="indefinite" /></rect>
+      <rect x="363" y="537" width="58" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="2.73s" repeatCount="indefinite" /></rect>
+      <rect x="431" y="537" width="71" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="2.86s" repeatCount="indefinite" /></rect>
+      <rect x="512" y="537" width="57" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="2.99s" repeatCount="indefinite" /></rect>
+    </g>
+    <g class="sans" font-size="13" fill="#D5DBE8" text-anchor="middle">
+      <text x="266" y="520">Docker</text>
+      <text x="356" y="520">Kubernetes</text>
+      <text x="454" y="520">Terraform</text>
+      <text x="567" y="520">GitHub Actions</text>
+      <text x="664" y="520">AWS</text>
+      <text x="260" y="556">Azure</text>
+      <text x="326" y="556">GCP</text>
+      <text x="392" y="556">Helm</text>
+      <text x="466" y="556">Ansible</text>
+      <text x="540" y="556">Nginx</text>
+    </g>
+
+    <text class="mono" x="200" y="600" font-size="11" letter-spacing="1.6" fill="#F9A8D4" text-anchor="end">INFRA &amp; SECURITY</text>
+    <g fill="#FFFFFF" fill-opacity="0.06" stroke="#F471B5" stroke-opacity="0.45">
+      <rect x="232" y="581" width="92" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="3.12s" repeatCount="indefinite" /></rect>
+      <rect x="334" y="581" width="85" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="3.25s" repeatCount="indefinite" /></rect>
+      <rect x="429" y="581" width="96" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="3.38s" repeatCount="indefinite" /></rect>
+      <rect x="535" y="581" width="72" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="3.51s" repeatCount="indefinite" /></rect>
+      <rect x="617" y="581" width="90" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="3.64s" repeatCount="indefinite" /></rect>
+      <rect x="232" y="617" width="105" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="3.77s" repeatCount="indefinite" /></rect>
+      <rect x="347" y="617" width="152" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="3.9s" repeatCount="indefinite" /></rect>
+      <rect x="509" y="617" width="158" height="30" rx="9"><animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="4.03s" repeatCount="indefinite" /></rect>
+    </g>
+    <g class="sans" font-size="13" fill="#D5DBE8" text-anchor="middle">
+      <text x="278" y="600">Kubernetes</text>
+      <text x="377" y="600">Terraform</text>
+      <text x="477" y="600">Bug Bounty</text>
+      <text x="571" y="600">OWASP</text>
+      <text x="662" y="600">Burp Suite</text>
+      <text x="285" y="636">Web Security</text>
+      <text x="423" y="636">Penetration Testing</text>
+      <text x="588" y="636">Reverse Engineering</text>
+    </g>
+
+    <rect x="0.75" y="0.75" width="998.5" height="698.5" rx="27" fill="none" stroke="#FFFFFF" stroke-opacity="0.09" />
+  </g>
+</svg>
