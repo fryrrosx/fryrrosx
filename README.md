@@ -54,20 +54,12 @@
 
 <br />
 
-## GitHub
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fryrrosx&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=A78BFA&icon_color=22D3EE&text_color=8A93A6&ring_color=8B6BFF" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fryrrosx&layout=compact&hide_border=true&bg_color=0B0D12&title_color=A78BFA&text_color=8A93A6" alt="Top languages" />
-</div>
-
-<br />
 
 <div align="center">
   <sub>
     <!-- Замени ссылки на свои, лишние строки удали -->
-    <a href="mailto:ТВОЙ@EMAIL">Email</a> ·
-    <a href="https://t.me/ТВОЙ_НИК">Telegram</a> ·
-    <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ">LinkedIn</a>
+    <a href="mailto:fryrros@gmail.com">Email</a> ·
+    <a href="https://t.me/buencik">Telegram</a> ·
   </sub>
 </div>
