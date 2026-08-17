@@ -60,6 +60,6 @@
   <sub>
     <!-- Замени ссылки на свои, лишние строки удали -->
     <a href="mailto:fryrros@gmail.com">Email</a> ·
-    <a href="https://t.me/buencik">Telegram</a> ·
+    <a href="https://t.me/buencik">Telegram</a> 
   </sub>
 </div>
